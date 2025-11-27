@@ -1,3 +1,4 @@
 venv/
 .mypy_cache/
 .venv310
+myvenv/
